@@ -9,3 +9,5 @@
 => Mix Blend Loading : The mission of the code is to style a text animation with a moving bar. The code aims to create a visually appealing and dynamic effect by animating a horizontal bar within a positioned text element. 
 
 => Animated Wavy Background : The mission of the code is to create a visually appealing layout with a waving animation effect on a web page. The objective is to enhance the overall design and create an engaging user experience.
+
+=> Burger Icon Transform Effects : The mission of the code is to style and create a menu icon, commonly used for navigation menus, with interactive hover effects. The objective is to visually represent a menu toggle and provide a visually engaging experience for users.
