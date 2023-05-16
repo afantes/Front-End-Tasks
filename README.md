@@ -11,3 +11,5 @@
 => Animated Wavy Background : The mission of the code is to create a visually appealing layout with a waving animation effect on a web page. The objective is to enhance the overall design and create an engaging user experience.
 
 => Burger Icon Transform Effects : The mission of the code is to style and create a menu icon, commonly used for navigation menus, with interactive hover effects. The objective is to visually represent a menu toggle and provide a visually engaging experience for users.
+
+=> Increase Numbers On Scrolling : The mission of the code is to create a count animation effect for numerical values when the user scrolls to a specific section of the page. The objective is to animate the numbers gradually increasing until they reach their respective goal values. 
