@@ -13,3 +13,5 @@
 => Burger Icon Transform Effects : The mission of the code is to style and create a menu icon, commonly used for navigation menus, with interactive hover effects. The objective is to visually represent a menu toggle and provide a visually engaging experience for users.
 
 => Increase Numbers On Scrolling : The mission of the code is to create a count animation effect for numerical values when the user scrolls to a specific section of the page. The objective is to animate the numbers gradually increasing until they reach their respective goal values. 
+
+=> Animate Width On Scrolling : The mission of the code is to update the width of progress spans when the user scrolls to a specific section of the page. The objective is to visually represent progress or completion by adjusting the width of the spans dynamically.
