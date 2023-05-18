@@ -19,3 +19,5 @@
 => Clip Path : The mission of the code is to demonstrate the usage of the clip-path property in CSS. The objective is to visually showcase the versatility of the clip-path property in creating various shapes and applying them to elements on the page.
 
 => Count Input Characters : The mission of the code is to create a character counter that dynamically updates the remaining character count and displays it visually using a progress bar.
+
+=> Customized Scrollbar : The mission of this code is to customize the appearance of scrollbars in web browser using CSS. 
