@@ -21,3 +21,5 @@
 => Count Input Characters : The mission of the code is to create a character counter that dynamically updates the remaining character count and displays it visually using a progress bar.
 
 => Customized Scrollbar : The mission of this code is to customize the appearance of scrollbars in web browser using CSS. 
+
+=> Full Screen Navigation : The mission of the code is to create a fullscreen navigation. This code enables opening and closing the navigation menu by clicking on the toggler element or the close button, and it also allows closing the menu by pressing the spacebar.
