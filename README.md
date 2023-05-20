@@ -27,3 +27,5 @@
 => Typewriter Effects : The mission of the code is to create a visual effect known as a typewriter effect for displaying text. It can be useful in various scenarios, such as creating an engaging introduction, highlighting key messages, or adding a dynamic element to a website or presentation.
 
 => Random Background Color : The mission of the code is to generate a random hexadecimal color code and apply it as the background color of the webpage.
+
+=> Works Filter : The mission of the code is to create a gallery with a switcher that allows the user to filter and display specific categories of images. Overall, the code enhances the user experience by providing a filtering mechanism for the gallery, allowing them to focus on specific types of images and customize their viewing experience.
