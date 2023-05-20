@@ -25,3 +25,5 @@
 => Full Screen Navigation : The mission of the code is to create a fullscreen navigation. This code enables opening and closing the navigation menu by clicking on the toggler element or the close button, and it also allows closing the menu by pressing the spacebar.
 
 => Typewriter Effects : The mission of the code is to create a visual effect known as a typewriter effect for displaying text. It can be useful in various scenarios, such as creating an engaging introduction, highlighting key messages, or adding a dynamic element to a website or presentation.
+
+=> Random Background Color : The mission of the code is to generate a random hexadecimal color code and apply it as the background color of the webpage.
