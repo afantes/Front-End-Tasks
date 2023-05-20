@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+.switcher {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.switcher li {
+    cursor: pointer;
+    padding: 10px;
+    margin: 0 10px;
+    color: #000;
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+.switcher li.active {
+    background-color: #0075FF;
+    color: #fff;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 20px;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
