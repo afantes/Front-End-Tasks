@@ -29,3 +29,5 @@
 => Random Background Color : The mission of the code is to generate a random hexadecimal color code and apply it as the background color of the webpage.
 
 => Works Filter : The mission of the code is to create a gallery with a switcher that allows the user to filter and display specific categories of images. Overall, the code enhances the user experience by providing a filtering mechanism for the gallery, allowing them to focus on specific types of images and customize their viewing experience.
+
+=> Random Serial Number : The mission of the code is to generate a random serial number when the "Generate" button is clicked. This can be used in various applications or scenarios where unique identifiers or codes are needed. It can be useful for generating activation codes, coupon codes, unique identifiers for database records, or any other situation that requires a random and unique string of characters.
