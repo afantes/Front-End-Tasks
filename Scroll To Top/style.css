@@ -1,0 +1,28 @@
+body {
+    height: 5000px;
+}
+
+.up {
+    position: fixed;
+    bottom: 10px;
+    right: -30px;
+    background-color: #2298ff;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 4px;
+    font-family: Arial, Tahoma;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.show {
+    height: 25px;
+    width: 25px;
+    margin: 0 0 20px 0;
+    right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
