@@ -37,3 +37,5 @@
 => Scroll To Top : The mission of the code is to create a "back to top" button that appears when the user scrolls down a certain distance on the page and allows them to smoothly scroll back to the top of the page when clicked. It improves usability and accessibility by reducing the effort required to return to the top of the page, especially on pages with large amounts of content.
 
 => Customized Radio Input : The mission of the code is to create a customized radio input interface. It enhances the default appearance of radio buttons by using CSS styles to create custom radio buttons and visual effects. The code applies custom styles to the radio buttons and their corresponding labels, allowing for a more visually appealing and interactive radio input experience for users.
+
+=> Background Fill Effect : The mission of the code is to create a background fill effect on hover. When the user hovers over the product card, the background color of the number element expands to fill the entire card, creating a visually appealing effect. The purpose of this effect is to draw attention to the product and make it more engaging to the user.
