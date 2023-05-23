@@ -39,3 +39,5 @@
 => Customized Radio Input : The mission of the code is to create a customized radio input interface. It enhances the default appearance of radio buttons by using CSS styles to create custom radio buttons and visual effects. The code applies custom styles to the radio buttons and their corresponding labels, allowing for a more visually appealing and interactive radio input experience for users.
 
 => Background Fill Effect : The mission of the code is to create a background fill effect on hover. When the user hovers over the product card, the background color of the number element expands to fill the entire card, creating a visually appealing effect. The purpose of this effect is to draw attention to the product and make it more engaging to the user.
+
+=> Ribbon With CSS : The mission of the code is to create a visually appealing ribbon effect for a product display or card. The utility of the code is to enhance the visual presentation of the product by adding a decorative element that draws attention to the product's title or heading. This can make the product more visually appealing and engaging to the viewers.
